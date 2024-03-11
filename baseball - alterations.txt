@@ -1,0 +1,38 @@
+Hits
+----
+-pitches - use current random numbers
+-each player starts with .333 batting avg
+-for each hittable pitch:
+	-random number 1-100
+		-sould not be a whole number
+	-take batting avg * 100
+		*may not have to do this if the random number is
+		 between 0 and 1...
+	-if random number is less than or equal to batting average, hit
+	-if below, strike
+-should have something to be able to get a hit if avg is .000
+-maybe add more random numbers to lower scoring chances to make
+ it more realistic
+
+
+
+Stats
+-----
+-add RBI's
+	-are they counted for the player themselves? ex.
+	 if they get a home run, are they counted as an RBI?
+-add walks
+	-change on base percent or on base avg. (lookup calculations)
+
+
+
+Graphics
+--------
+-add base tracker
+-maybe add more to opening
+
+
+
+Other
+-----
+-add creator name to opening credits
